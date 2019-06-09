@@ -10,7 +10,7 @@
 ## 简单的开启
 
 - [继承`Thread`](src/main/java/com/godme/simple/ExtendsThread.java)
-- [实现`Runnable``](src/main/java/com/godme/simple/ImplementsRunnable.java)
+- [实现`Runnable`](src/main/java/com/godme/simple/ImplementsRunnable.java)
 - [`start`](src/main/java/com/godme/simple/StartThread.java)
 
 ## 锁的对象
